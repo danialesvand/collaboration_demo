@@ -2,4 +2,4 @@ Collaboration Demo Project
 Version 1.0
 
 This project demonstrates GitHub collaboration workflows.
-Yes
+This project demonstrates how contributors can propose, review, and merge changes using GitHub.
